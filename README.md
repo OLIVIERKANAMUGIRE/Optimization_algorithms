@@ -7,6 +7,29 @@ It is designed as a gentle, visual, and practical guide for anyone learning how 
 
 ## 🚀 Contents
 
+<div style="display: flex; align-items: center;">
+
+  <img src="" alt="image" width="200" style="margin-right: 20px;"/>
+
+  <p>
+    ### **📗 Part 1 — Introduction to Minimization**  
+**File:** `Part1-Introduction-to-minimization.ipynb`
+
+This notebook introduces the foundational ideas behind optimization:
+
+- What is **risk** and **empirical risk**?  
+- The difference between **local minima**, **global minima**, and **saddle points**  
+- Intuitive, visual explanations of optimization landscapes  
+- Simple examples that show why minimization is challenging  
+- Graphical demonstrations to build intuition  
+
+If you’re new to optimization, *start here*.
+
+---
+  </p>
+
+</div>
+
 ### **📗 Part 1 — Introduction to Minimization**  
 **File:** `Part1-Introduction-to-minimization.ipynb`
 
