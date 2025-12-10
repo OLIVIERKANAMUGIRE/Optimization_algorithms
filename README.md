@@ -30,20 +30,6 @@ If you’re new to optimization, *start here*.
 
 </div>
 
-### **📗 Part 1 — Introduction to Minimization**  
-**File:** `Part1-Introduction-to-minimization.ipynb`
-
-This notebook introduces the foundational ideas behind optimization:
-
-- What is **risk** and **empirical risk**?  
-- The difference between **local minima**, **global minima**, and **saddle points**  
-- Intuitive, visual explanations of optimization landscapes  
-- Simple examples that show why minimization is challenging  
-- Graphical demonstrations to build intuition  
-
-If you’re new to optimization, *start here*.
-
----
 
 ### **📘 Part 2 — Optimization Algorithms**  
 **File:** `part2-optimization-algorithms.ipynb`
