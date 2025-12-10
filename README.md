@@ -31,6 +31,12 @@ If you’re new to optimization, *start here*.
 </div>
 
 
+<div style="display: flex; align-items: center;">
+
+  <img src="opt2.png" alt="image" width="200" style="margin-right: 20px;"/>
+
+  <p>
+   
 ### **📘 Part 2 — Optimization Algorithms**  
 **File:** `part2-optimization-algorithms.ipynb`
 
@@ -46,6 +52,10 @@ Building on Part 1, this notebook explores *how* minimization is actually carrie
 The notebook blends theory with practical examples and visualizations, making complex algorithms easy to understand.
 
 ---
+  </p>
+
+</div>
+
 
 ## 🧠 What You’ll Learn
 
