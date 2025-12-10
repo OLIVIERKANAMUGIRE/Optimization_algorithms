@@ -9,7 +9,7 @@ It is designed as a gentle, visual, and practical guide for anyone learning how 
 
 <div style="display: flex; align-items: center;">
 
-  <img src="" alt="image" width="200" style="margin-right: 20px;"/>
+  <img src="opt1.png" alt="image" width="200" style="margin-right: 20px;"/>
 
   <p>
     ### **📗 Part 1 — Introduction to Minimization**  
