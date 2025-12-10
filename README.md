@@ -7,12 +7,13 @@ It is designed as a gentle, visual, and practical guide for anyone learning how 
 
 ## 🚀 Contents
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="opt1.png" alt="image" width="200" style="margin-right: 20px;"/>
+  <img src="opt1.png" alt="image" width="200"/>
 
-  <p>
-    ### **📗 Part 1 — Introduction to Minimization**  
+  <div>
+
+### 📗 Part 1 — Introduction to Minimization
 **File:** `Part1-Introduction-to-minimization.ipynb`
 
 This notebook introduces the foundational ideas behind optimization:
@@ -25,19 +26,19 @@ This notebook introduces the foundational ideas behind optimization:
 
 If you’re new to optimization, *start here*.
 
----
-  </p>
+  </div>
 
 </div>
 
+---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="opt2.png" alt="image" width="200" style="margin-right: 20px;"/>
+  <img src="opt2.png" alt="image" width="200"/>
 
-  <p>
-   
-### **📘 Part 2 — Optimization Algorithms**  
+  <div>
+
+### 📘 Part 2 — Optimization Algorithms
 **File:** `part2-optimization-algorithms.ipynb`
 
 Building on Part 1, this notebook explores *how* minimization is actually carried out:
@@ -51,11 +52,11 @@ Building on Part 1, this notebook explores *how* minimization is actually carrie
 
 The notebook blends theory with practical examples and visualizations, making complex algorithms easy to understand.
 
----
-  </p>
+  </div>
 
 </div>
 
+---
 
 ## 🧠 What You’ll Learn
 
@@ -68,4 +69,3 @@ By working through these notebooks, you will:
 - Gain practical experience running and visualizing optimizers  
 
 ---
-
