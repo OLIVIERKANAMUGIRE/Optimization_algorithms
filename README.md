@@ -7,14 +7,9 @@ It is designed as a gentle, visual, and practical guide for anyone learning how 
 
 ## 🚀 Contents
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <img src="opt1.png" alt="image" width="200"/>
-
-  <div>
-
-### 📗 Part 1 — Introduction to Minimization
-**File:** `Part1-Introduction-to-minimization.ipynb`
+| <img src="opt1.png" width="200"> | 
+### 📗 Part 1 — Introduction to Minimization  
+**File:** `Part1-Introduction-to-minimization.ipynb`  
 
 This notebook introduces the foundational ideas behind optimization:
 
@@ -24,24 +19,16 @@ This notebook introduces the foundational ideas behind optimization:
 - Simple examples that show why minimization is challenging  
 - Graphical demonstrations to build intuition  
 
-If you’re new to optimization, *start here*.
-
-  </div>
-
-</div>
+If you’re new to optimization, _start here_. |
+|---|---|
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+| <img src="opt2.png" width="200"> | 
+### 📘 Part 2 — Optimization Algorithms  
+**File:** `part2-optimization-algorithms.ipynb`  
 
-  <img src="opt2.png" alt="image" width="200"/>
-
-  <div>
-
-### 📘 Part 2 — Optimization Algorithms
-**File:** `part2-optimization-algorithms.ipynb`
-
-Building on Part 1, this notebook explores *how* minimization is actually carried out:
+This notebook explores *how* minimization is actually carried out:
 
 - Gradient Descent  
 - Stochastic Gradient Descent (SGD)  
@@ -50,11 +37,8 @@ Building on Part 1, this notebook explores *how* minimization is actually carrie
 - Visual comparisons of algorithm behavior  
 - Trade-offs: speed, stability, convergence quality  
 
-The notebook blends theory with practical examples and visualizations, making complex algorithms easy to understand.
-
-  </div>
-
-</div>
+The notebook blends theory with practical examples. |
+|---|---|
 
 ---
 
