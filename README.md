@@ -7,11 +7,6 @@ It is designed as a gentle, visual, and practical guide for anyone learning how 
 
 ## 🚀 Contents
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <img src="opt1.png" alt="image" width="200"/>
-
-  <div>
 
 ### 📗 Part 1 — Introduction to Minimization
 **File:** `Part1-Introduction-to-minimization.ipynb`
@@ -29,10 +24,13 @@ If you’re new to optimization, *start here*.
   </div>
 
 </div>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <img src="opt1.png" alt="image" width="200"/>
+
+  <div>
 
 ---
-
-
 
 ### 📘 Part 2 — Optimization Algorithms
 **File:** `part2-optimization-algorithms.ipynb`
@@ -44,18 +42,21 @@ Building on Part 1, this notebook explores *how* minimization is actually carrie
 - Momentum  
 - RMSProp, Adam, and other adaptive optimizers  
 - Visual comparisons of algorithm behavior  
-- Trade-offs: speed, stability, convergence quality
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <img src="opt2.png" alt="image" width="200"/>
-
-  <div>
+- Trade-offs: speed, stability, convergence quality  
 
 The notebook blends theory with practical examples and visualizations, making complex algorithms easy to understand.
 
   </div>
 
 </div>
+
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <img src="opt2.png" alt="image" width="200"/>
+
+  <div>
+
 
 ---
 
